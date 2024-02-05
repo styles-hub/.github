@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"><img src="https://i.imgur.com/eshLjFA.png"></a><br>Turn your online dream into reality!</h1>
+<h1 align="center"><a href="#"><img src="https://i.imgur.com/VSR7xiA.png"></a><br>Turn your online dream into reality!</h1>
 
 <div align="center">
   <h3>Elevate your forums and websites with our premium themes and templates.</h3>
